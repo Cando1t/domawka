@@ -1,0 +1,221 @@
+.blue {
+    font-family: 'Roboto', sans-serif;
+    color: #2196F3;
+}
+
+.mail-first {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
+
+.tel {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #757575;
+}
+
+.header-1 {
+    font-family: 'Roboto', sans-serif;
+    height: 80px;    
+    background: #FFFFFF;
+    justify-content: center;    
+}
+
+.webstudio {
+    font-family: 'Roboto', sans-serif;
+    width: 145px;
+    margin: 0;
+    padding: 0;
+    height: 31px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 85px;
+    letter-spacing: 0.03em; 
+}
+
+.header-text {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 85px;
+    letter-spacing: 0.02em;
+}
+
+.main-bannerr {
+    font-family: 'Roboto', sans-serif;
+    background-color: #2F303A;
+    height: 600px;
+}
+
+.bannerr-text {
+    font-family: 'Roboto', sans-serif;
+    /* display: inline; */
+    width: 696px;
+    height: 120px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    /* or 136% */
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin: 200px 312px 280px;
+    color: #FFFFFF;
+}
+
+.order-servise {
+    font-family: 'Roboto', sans-serif;    
+    /* position: absolute; */
+    width: 200px;
+    height: 50px;
+    margin: 20px 0 210px;
+    font-size: 16px;
+    font-weight: bold;
+    background: #2196F3;
+}
+
+.four-column-in-center {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: space-between;    
+    margin: 100px 100px 0;
+    text-align: left;
+}
+
+.bold-center {
+    font-family: 'Roboto', sans-serif;
+    width: 270px;
+    height: 16px;
+    left: 215px;
+    top: 774px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+
+}
+
+.span-text-center {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.what {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 94px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+
+.pictures {    
+    text-align: center;
+    margin: 94px 60px auto;
+}
+
+.our-team {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 94px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+
+.team {
+    text-align: center;
+    margin: 94px 60px auto;
+}
+
+.bgc-team {
+    background-color: #F5F4FA;
+    margin-top: 94px;
+    height: 648px;
+}
+
+.name-position {
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    width: 223px;
+    height: 90px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+}
+
+.footer {
+    font-family: 'Roboto', sans-serif;
+    /* padding: auto; */
+    background-color: #2F303A;
+    height: 250px;
+}
+
+.footer-web {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+ .footer-col {
+    font-family: 'Roboto', sans-serif;
+    width: auto;
+    text-align: start;
+    margin-top: 25px;
+    padding-bottom: 25px;      
+}
+
+.addres {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+    letter-spacing: 0.03em;
+    margin-top: 20px;
+}
+
+.mail-second,
+.tel-second {
+    font-family: 'Roboto', sans-serif;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+}
+
+.name-strong {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 19px;
+    ext-align: center;
+    letter-spacing: 0.03em;
+}
+
+.pposition {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
